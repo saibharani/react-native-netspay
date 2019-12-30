@@ -2,7 +2,7 @@
 
 ## Getting started
 
-`$ npm install react-native-netspay --save`
+`$ npm install  https://github.com/saibharani/react-native-netspay --save`
 
 ### Mostly automatic installation
 
